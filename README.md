@@ -340,10 +340,4 @@ pd.read_csv(..., sep=";")
 https://www.kaggle.com/datasets/techstarmahesh/marketing-compaign
 
 **GitHub Repository:**  
-`<ADD_GITHUB_REPOSITORY_LINK>`
-
-**Live Dashboard:**  
-`<ADD_DEPLOYMENT_LINK>`
-
-**Demo Video:**  
-`<ADD_DEMO_VIDEO_LINK>`
+https://github.com/prakharsinghhhh/Marketing-Performance-Dashboard
